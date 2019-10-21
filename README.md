@@ -1,8 +1,8 @@
-# tmuxConf
+
 My personal tmux config
 =========================
 
-My evoloving [tmux] (https://tmux.github.io/) configuration to get my systems setup quickly
+My evoloving [tmux](https://tmux.github.io/) configuration to get my systems setup quickly
 
 Features
 ------------ 
@@ -16,4 +16,4 @@ Features
 - Start pane and windows with an index of 1
 - Open new windows in the current path
 - Various design changes for colors and notifications
-
+..- The design should work but is using color schemes from [base16](https://github.com/chriskempson/base16) and assumes that you are using [base16-shell](https://github.com/chriskempson/base16-shell)
