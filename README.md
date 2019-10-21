@@ -16,8 +16,5 @@ Features
 - Start pane and windows with an index of 1
 - Open new windows in the current path
 - Various design changes for colors and notifications
-<<<<<<< HEAD
 ..- The design should work but is using color schemes from [base16](https://github.com/chriskempson/base16) and assumes that you are using [base16-shell](https://github.com/chriskempson/base16-shell)
-=======
 ..- The design should work but is using color schemes from [base16] (https://github.com/chriskempson/base16) and assumes that you are using [base16-shell] (https://github.com/chriskempson/base16-shell)
->>>>>>> dfb33204fb869db8e65453233759ade6a5b6670d
