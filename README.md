@@ -1,8 +1,12 @@
 
-My personal tmux config
+My personal Dotfile configs
 =========================
 
-My evoloving [tmux](https://tmux.github.io/) configuration to get my systems setup quickly
+My evolving dot file collection that begain with my [tmux](https://tmux.github.io/) configuration to get my systems setup quickly
+
+
+TMUX
+==========
 
 Features
 ------------ 
